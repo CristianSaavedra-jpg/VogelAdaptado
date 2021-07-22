@@ -1,0 +1,8 @@
+Kumar, 2006.txt
+Majundar y Bhunia, 2012-A.txt
+Majundar y Bhunia, 2012-B.txt
+Majundar y Bhunia, 2012-C.txt
+Wang et al, 2015.txt
+Mondal et al, 2017.txt
+Khandelwal, 2018.txt
+Dubey, 2018.txt
