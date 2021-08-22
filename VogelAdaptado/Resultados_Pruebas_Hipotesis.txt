@@ -1,0 +1,22 @@
+--------------------------------------------------------------
+Prueba de Hipotesis de igualdad de medias para los costos:
+Media Pulp (mu_1)= 33358.0
+Media Vogel (mu_2)= 34410.0
+Desviación Estandar Pulp (zigma_1)= 29187.81680770249
+Desviación Estandar Vogel (zigma_2)= 29375.2239821248
+H_0= mu_1 = m_2
+H_A= mu_1 < m_2
+Z calculado=-0.3593
+Z critico (95%)=-1.6449
+Se aceptó la H_0, las medias de los costos son significativamentes Iguales
+--------------------------------------------------------------
+Prueba de Hipotesis de igualdad de medias para los tiempos:
+Media Pulp (mu_1)= 0.36392231
+Media Vogel (mu_2)= 0.061697394999999995
+Desviación Estandar Pulp (zigma_1)= 0.15649627423885815
+Desviación Estandar Vogel (zigma_2)= 0.05254445945729174
+H_0= mu_1 = m_2
+H_A= mu_1 > m_2
+Z calculado= 25.8908
+Z critico (95%)= 1.6449
+Se rechazó la H_0, Las medias de los tiempos son significativamentes Distintas
