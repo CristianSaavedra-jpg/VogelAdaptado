@@ -128,7 +128,6 @@ def vogel(matriz):
     indices_fila=np.array([i for i in range(n)]) #vector que guarda los indices validos (no tachados) de la matriz C
     indices_col=np.array([i for i in range(m)]) # estos vectores son del mismo tamaño que los vectores de penalizaciones
     fila=True #indicador si una fila ha sido tachada
-    col=True #indicador si una columna ha sido tachada
     resumen=[] # vector que guarda los principales resultados para imprimirlos al final
     inicio=time.time() # inicio del conteo del tiempo
     while m_s>0: # el metodo itera hasta que todas las tareas esten asignadas
